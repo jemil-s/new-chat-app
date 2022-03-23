@@ -1,0 +1,30 @@
+.me {
+  color: white;
+  float: right;
+  background-color: #328ec4;
+}
+
+.message {
+  text-align: left;
+  display: block;
+  background-color: white;
+  box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.2);
+
+  border-radius: 5px;
+  clear: both;
+  display: flex;
+  margin: 1rem 0;
+}
+
+.user {
+  margin-right: 1rem;
+  background-color: #328ec4;
+  padding: 10px 20px;
+  color: aliceblue;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.text {
+  padding: 10px 20px;
+}

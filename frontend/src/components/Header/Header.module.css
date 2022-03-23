@@ -1,0 +1,14 @@
+.header {
+    background-color: #15223b;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    z-index: 1000;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+}
